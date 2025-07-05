@@ -1,4 +1,4 @@
-Support Chat Application Setup
+Support Chat Application Setup Laravel + GoLang(Go)
 ==============================
 
 Prerequisites
